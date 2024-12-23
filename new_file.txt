@@ -4,3 +4,6 @@ master起始三行
 file2_master,2号仓库修改，【001】
 file2_master,2号仓库修改，【002】
 file2_master,2号仓库修改，【003】
+file1_feature_1,1号仓库修改，【001】
+file1_feature_1,1号仓库修改，【002】
+file1_feature_1,1号仓库修改，【003】
